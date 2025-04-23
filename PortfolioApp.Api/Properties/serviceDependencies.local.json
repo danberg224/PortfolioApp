@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "App registration: PortfolioApi, Tenant: Default Directory (danberghofer224outlook.onmicrosoft.com - Microsoft Entra ID)",
+      "type": "identityapp.default"
+    },
+    "identityapp2": {
+      "connectionInfo": "App registration: PortfolioApi, Tenant: Default Directory (danberghofer224outlook.onmicrosoft.com - Microsoft Entra ID)",
+      "type": "identityapp.default"
+    }
+  }
+}
